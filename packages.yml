@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/arnoN7/source1.git"
+    revision: master
