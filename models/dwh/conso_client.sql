@@ -6,4 +6,4 @@
     )
 -}}
 select ID, FIRST_NAME, LAST_NAME, BIRTHDATE
-from {{ref('add_clients')}}
+from {{stream_ref('add_clients')}}
